@@ -1,0 +1,58 @@
+Site Number	Latitude	Longitude	Year Collected	Section
+1	28.40897	-80.61964	2019 & 2021	Atlantic Coast
+2	28.4085	-80.5947	2019 & 2021	Atlantic Coast
+3	28.39143	-80.59525	2019 & 2021	Atlantic Coast
+4	28.32356	-80.60719	2019 & 2021	Atlantic Coast
+5	28.27323	-80.60584	2019 & 2021	Atlantic Coast
+6	28.25916	-80.60393	2019 & 2021	Atlantic Coast
+7	28.21466	-80.59701	2019 & 2021	Atlantic Coast
+8	28.16473	-80.58626	2019 & 2021	Atlantic Coast
+9	28.12257	-80.57522	2019 & 2021	Atlantic Coast
+10	28.05625	-80.55082	2019 & 2021	Atlantic Coast
+11	28.04768	-80.54703	2019 & 2021	Atlantic Coast
+12	28.40344	-80.66158	2019 & 2021	Banana River
+13	28.40212	-80.6627	2019 & 2021	Banana River
+14	28.39505	-80.61951	2019 & 2021	Banana River
+15	28.38143	-80.60899	2019 & 2021	Banana River
+16	28.35931	-80.62218	2019 & 2021	Banana River
+17	28.34883	-80.61182	2019 & 2021	Banana River
+18	28.31342	-80.63354	2019 & 2021	Banana River
+19	28.29271	-80.6162	2019 & 2021	Banana River
+20	28.2083	-80.63506	2019 & 2021	Banana River
+21	28.19307	-80.61054	2019 & 2021	Banana River
+22	28.18324	-80.61051	2019 & 2021	Banana River
+23	28.14941	-80.60488	2019 & 2021	Banana River
+24	28.13866	-80.6013	2019 & 2021	Banana River
+25	28.1957	-80.63357	2019 & 2021	Northern Indian River
+26	28.17198	-80.62125	2019 & 2021	Northern Indian River
+27	28.20818	-80.66256	2019 & 2021	Northern Indian River
+28	28.22944	-80.67117	2019 & 2021	Northern Indian River
+29	28.27179	-80.68824	2019 & 2021	Northern Indian River
+30	28.35486	-80.72227	2019 & 2021	Northern Indian River
+31	28.12433	-80.62404	2019 & 2021	Northern Indian River
+32	28.13244	-80.62582	2019 & 2021	Northern Indian River
+33	28.08845	-80.57886	2019 & 2021	Northern Indian River
+34	28.08136	-80.59759	2019 & 2021	Southern Indian River
+35	28.07694	-80.60366	2019 & 2021	Southern Indian River
+36	28.06711	-80.56556	2019 & 2021	Southern Indian River
+37	28.04285	-80.55323	2019 & 2021	Southern Indian River
+38	27.98757	-80.5246	2019 & 2021	Southern Indian River
+39	28.04041	-80.58021	2019 & 2021	Southern Indian River
+40	27.97563	-80.54781	2019 & 2021	Southern Indian River
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				

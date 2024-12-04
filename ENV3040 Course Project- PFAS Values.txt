@@ -1,0 +1,81 @@
+PFAS	?PFAS	Sight	Number
+PFBA	13	Atlantic Coast	1
+	2.8	Atlantic Coast	1
+PFBS	20	Atlantic Coast	2
+	2.3	Atlantic Coast	2
+PFHxA	20	Atlantic Coast	3
+	3.7	Atlantic Coast	3
+PFHxPA	40	Atlantic Coast	4
+	5.7	Atlantic Coast	4
+PFHpA	16	Atlantic Coast	5
+	0.6	Atlantic Coast	5
+PFOA	32	Atlantic Coast	6
+		Atlantic Coast	6
+L-PFOS	153	Atlantic Coast	7
+	31	Atlantic Coast	7
+BrPFOS	42	Atlantic Coast	8
+	8.6	Atlantic Coast	8
+PFNA	13	Atlantic Coast	9
+	3.3	Atlantic Coast	9
+PFDA	6.9	Atlantic Coast	10
+	3.2	Atlantic Coast	10
+PFBA	71	Banana River	11
+	94	Banana River	11
+PFBS	102	Banana River	2
+	139	Banana River	12
+PFHxA	91	Banana River	13
+	107	Banana River	13
+PFHxPA	195	Banana River	14
+	214	Banana River	14
+PFHpA	77	Banana River	15
+	93	Banana River	15
+PFOA	92	Banana River	16
+	108	Banana River	16
+L-PFOS	316	Banana River	17
+	253	Banana River	17
+BrPFOS	110	Banana River	18
+	104	Banana River	18
+PFNA	22	Banana River	19
+	23	Banana River	19
+PFDA	12	Banana River	20
+	10	Banana River	20
+PFBA	29	Northern Indian River	21
+	53	Northern Indian River	21
+PFBS	48	Northern Indian River	22
+	89	Northern Indian River	22
+PFHxA	42	Northern Indian River	23
+	57	Northern Indian River	23
+PFHxPA	98	Northern Indian River	24
+	98	Northern Indian River	24
+PFHpA	38	Northern Indian River	25
+	49	Northern Indian River	25
+PFOA	59	Northern Indian River	26
+	64	Northern Indian River	26
+L-PFOS	162	Northern Indian River	27
+	122	Northern Indian River	27
+BrPFOS	64	Northern Indian River	28
+	49	Northern Indian River	28
+PFNA	14	Northern Indian River	29
+	12	Northern Indian River	29
+PFDA	7.6	Northern Indian River	30
+	5.9	Northern Indian River	30
+PFBA	19	Southern Indian River	31
+	35	Southern Indian River	31
+PFBS	50	Southern Indian River	32
+	67	Southern Indian River	32
+PFHxA	37	Southern Indian River	33
+	42	Southern Indian River	33
+PFHxPA	62	Southern Indian River	34
+	76	Southern Indian River	34
+PFHpA	33	Southern Indian River	35
+	37	Southern Indian River	35
+PFOA	46	Southern Indian River	36
+	48	Southern Indian River	36
+L-PFOS	87	Southern Indian River	37
+	100	Southern Indian River	37
+BrPFOS	33	Southern Indian River	38
+	40	Southern Indian River	38
+PFNA	8.2	Southern Indian River	39
+	8.9	Southern Indian River	39
+PFDA	4.6	Southern Indian River	40
+	4.9	Southern Indian River	40
